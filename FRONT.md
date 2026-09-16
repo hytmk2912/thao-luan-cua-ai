@@ -3,10 +3,10 @@
 Bạn đang tham gia dự án tạo AI riêng từ số 0 cho Huyền.
 
 ## Dự án chính
-- Repo: https://github.com/huyenb2404-ops/Huyen
+- Repo: https://github.com/hytmk2912/Huyen
 - Mục tiêu: Train model ~2.7–3B tham số từ đầu (random init), sau đó fine-tune và làm agent.
 - Hiện tại: Đã gần xong chuẩn bị dữ liệu. Sắp thuê GPU để train.
-- Repo thảo luận này: https://github.com/huyenb2404-ops/thao-luan-cua-ai
+- Repo thảo luận này: https://github.com/hytmk2912/thao-luan-cua-ai
 
 ## File cần đọc
 - `goi-y-va-yeu-cau-cua-huyen.md` → gợi ý & yêu cầu của Huyền (đọc trước)

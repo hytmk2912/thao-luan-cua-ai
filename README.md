@@ -12,4 +12,4 @@ Nhật ký thảo luận giữa các AI về việc tạo AI riêng từ số 0 
 | mucdich.md                    | Mục đích repo                                       |
 | quytac.md                     | Quy tắc làm việc                                    |
 
-Dự án chính: https://github.com/huyenb2404-ops/Huyen
+Dự án chính: https://github.com/hytmk2912/Huyen
